@@ -50,28 +50,28 @@ ZEP-22 : [Interface de remerciements gracieux et pécuniaires](https://zestedesa
 
 ZEP-23 : [Elaboration de l'API des MPs](https://zestedesavoir.com/forums/sujet/2211/zep-23-elaboration-de-lapi-des-mps/?page=1) - En développement
 
-ZEP-24 : [Refonte et enrichissement des notifications](https://zestedesavoir.com/forums/sujet/2251/zep-24-refonte-et-enrichissement-des-notifications/)
+ZEP-24 : [Refonte et enrichissement des notifications](https://zestedesavoir.com/forums/sujet/2251/zep-24-refonte-et-enrichissement-des-notifications/) - En développement
 
-ZEP-25 : [Catégorisations des articles et tutoriels](https://zestedesavoir.com/forums/sujet/2378/zep-25-categorisation-des-articles-et-tutoriels/)
+ZEP-25 : [Catégorisations des articles et tutoriels](https://zestedesavoir.com/forums/sujet/2378/zep-25-categorisation-des-articles-et-tutoriels/) - En validation
 
-ZEP-26 : [Rendre les URLs plus cohérentes](https://zestedesavoir.com/forums/sujet/2558/zep-26-rendre-les-urls-plus-coherentes/)
+ZEP-26 : [Rendre les URLs plus cohérentes](https://zestedesavoir.com/forums/sujet/2558/zep-26-rendre-les-urls-plus-coherentes/) - En rédaction
 
-ZEP-27 : [Identifier les éléments d'un extrait](https://zestedesavoir.com/forums/sujet/2710/zep-27-identifier-les-elements-dun-extrait/)
+ZEP-27 : [Identifier les éléments d'un extrait](https://zestedesavoir.com/forums/sujet/2710/zep-27-identifier-les-elements-dun-extrait/) - En rédaction
 
-ZEP-28 : [Médiathèque](https://zestedesavoir.com/forums/sujet/2763/zep-28-mediatheque/)
+ZEP-28 : [Médiathèque](https://zestedesavoir.com/forums/sujet/2763/zep-28-mediatheque/) - En rédaction
 
-ZEP-29 : [Création d'une section Livres et de fiches de lecture](https://zestedesavoir.com/forums/sujet/2997/zep-29-creation-dune-section-livres-et-de-fiches-de-lecture/)
+ZEP-29 : [Création d'une section Livres et de fiches de lecture](https://zestedesavoir.com/forums/sujet/2997/zep-29-creation-dune-section-livres-et-de-fiches-de-lecture/) - En rédaction
 
-ZEP-30 : [Elaboration de l'API des forums](https://zestedesavoir.com/forums/sujet/3112/zep-30-elaboration-de-lapi-des-forums/?page=1#)
+ZEP-30 : [Elaboration de l'API des forums](https://zestedesavoir.com/forums/sujet/3112/zep-30-elaboration-de-lapi-des-forums/?page=1#) - En validation
 
-ZEP-31 : [Les parcours de connaissances](https://zestedesavoir.com/forums/sujet/3149/zep-31-les-parcours-de-connaissances/)
+ZEP-31 : [Les parcours de connaissances](https://zestedesavoir.com/forums/sujet/3149/zep-31-les-parcours-de-connaissances/) - En rédaction
 
 ZEP-32 : [Connexion des contenus - les relations](https://zestedesavoir.com/forums/sujet/3152/zep-32-connexion-des-contenus-les-relations/?page=1)
 
-ZEP-33 : [Templates de tutoriel et éditorialisation](https://zestedesavoir.com/forums/sujet/3992/zep-33-template-de-tutoriels-et-editorialisation/)
+ZEP-33 : [Templates de tutoriel et éditorialisation](https://zestedesavoir.com/forums/sujet/3992/zep-33-template-de-tutoriels-et-editorialisation/) - En rédaction
 
-ZEP-34 : [Templates de tutoriels](https://zestedesavoir.com/forums/sujet/4010/zep-34-template-de-tutoriels/)
+ZEP-34 : [Templates de tutoriels](https://zestedesavoir.com/forums/sujet/4010/zep-34-template-de-tutoriels/) - En rédaction
 
-ZEP-35 : [Connexion des contenus - les liens](https://zestedesavoir.com/forums/sujet/3152/zep-32-connexion-des-contenus-les-relations/)
+ZEP-35 : [Connexion des contenus - les liens](https://zestedesavoir.com/forums/sujet/3152/zep-32-connexion-des-contenus-les-relations/) - En rédaction
 
-ZEP-36 : [Nouvelle page de profil](https://zestedesavoir.com/forums/sujet/4454/zep-36-nouvelle-page-de-profil/)
+ZEP-36 : [Nouvelle page de profil](https://zestedesavoir.com/forums/sujet/4454/zep-36-nouvelle-page-de-profil/) - En rédaction

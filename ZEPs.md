@@ -30,25 +30,25 @@ ZEP-12 : [Refonte principe des tutoriels et articles](https://zestedesavoir.com/
 
 ZEP-13 : [Tribune libre](https://zestedesavoir.com/forums/sujet/976/zep-13-tribune-libre/?page=1) - En rédaction
 
-ZEP-14 : [Refonte de l'assistant d'édition mardown](https://zestedesavoir.com/forums/sujet/1009/zep-14-refonte-de-lassistant-dedition-markdown/?page=1)
+ZEP-14 : [Refonte de l'assistant d'édition mardown](https://zestedesavoir.com/forums/sujet/1009/zep-14-refonte-de-lassistant-dedition-markdown/?page=1) - En rédaction
 
-ZEP-15 : [Navigation à facettes à travers le site](https://zestedesavoir.com/forums/sujet/1082/zep-15-navigation-a-facettes-a-travers-le-site/)
+ZEP-15 : [Navigation à facettes à travers le site](https://zestedesavoir.com/forums/sujet/1082/zep-15-navigation-a-facettes-a-travers-le-site/) - En rédaction
 
-ZEP-16 : [Page de propositions de corrections](https://zestedesavoir.com/forums/sujet/1243/zep-16-page-de-proposition-de-corrections/)
+ZEP-16 : [Page de propositions de corrections](https://zestedesavoir.com/forums/sujet/1243/zep-16-page-de-proposition-de-corrections/) - En rédaction
 
-ZEP-17 : [Elaboration de l'API des membres](https://zestedesavoir.com/forums/sujet/1365/zep-17-elaboration-de-lapi-des-membres/?page=1)
+ZEP-17 : [Elaboration de l'API des membres](https://zestedesavoir.com/forums/sujet/1365/zep-17-elaboration-de-lapi-des-membres/?page=1) - Active
 
-ZEP-18 : [Amélioration de l'ergonomie de validation](https://zestedesavoir.com/forums/sujet/1793/zep-18-amelioration-de-lergonomie-de-validation/)
+ZEP-18 : [Amélioration de l'ergonomie de validation](https://zestedesavoir.com/forums/sujet/1793/zep-18-amelioration-de-lergonomie-de-validation/) - En rédaction
 
-ZEP-19 : [Page des requêtes de tutoriels](https://zestedesavoir.com/forums/sujet/1952/zep-19-page-des-requetes-de-tutoriels/)
+ZEP-19 : [Page des requêtes de tutoriels](https://zestedesavoir.com/forums/sujet/1952/zep-19-page-des-requetes-de-tutoriels/) - En validation
 
-ZEP-20 : [Relecture des tutos par les pairs](https://zestedesavoir.com/forums/sujet/2042/zep-20-relecture-des-tutos-par-les-pairs/)
+ZEP-20 : [Relecture des tutos par les pairs](https://zestedesavoir.com/forums/sujet/2042/zep-20-relecture-des-tutos-par-les-pairs/) - En validation
 
-ZEP-21 : [Refonte de l'interface des messages privés](https://zestedesavoir.com/forums/sujet/2069/zep-21-refonte-de-linterface-des-messages-prives/)
+ZEP-21 : [Refonte de l'interface des messages privés](https://zestedesavoir.com/forums/sujet/2069/zep-21-refonte-de-linterface-des-messages-prives/) - En rédaction
 
-ZEP-22 : [Interface de remerciements gracieux et pécuniaires](https://zestedesavoir.com/forums/sujet/2153/zep-22-interface-de-remerciements-gracieux-et-pecuniaires/)
+ZEP-22 : [Interface de remerciements gracieux et pécuniaires](https://zestedesavoir.com/forums/sujet/2153/zep-22-interface-de-remerciements-gracieux-et-pecuniaires/) - En rédaction
 
-ZEP-23 : [Elaboration de l'API des MPs](https://zestedesavoir.com/forums/sujet/2211/zep-23-elaboration-de-lapi-des-mps/?page=1)
+ZEP-23 : [Elaboration de l'API des MPs](https://zestedesavoir.com/forums/sujet/2211/zep-23-elaboration-de-lapi-des-mps/?page=1) - En développement
 
 ZEP-24 : [Refonte et enrichissement des notifications](https://zestedesavoir.com/forums/sujet/2251/zep-24-refonte-et-enrichissement-des-notifications/)
 

@@ -4,31 +4,31 @@ https://zestedesavoir.com/
 
 *(Dernière mise à jour le 01 novembre 2015)*
 
-ZEP-01 : [Rôle et fonctionnement des ZEP](https://zestedesavoir.com/forums/sujet/617/zep-01-role-et-fonctionnement-des-zep/)
+ZEP-01 : [Rôle et fonctionnement des ZEP](https://zestedesavoir.com/forums/sujet/617/zep-01-role-et-fonctionnement-des-zep/) - Active
 
-ZEP-02 : [Elaboration d'une API](https://zestedesavoir.com/forums/sujet/622/zep-02-elaboration-dune-api/?page=1)
+ZEP-02 : [Elaboration d'une API](https://zestedesavoir.com/forums/sujet/622/zep-02-elaboration-dune-api/?page=1) - En rédaction
 
-ZEP-03 : [Page résumant les tutos en rédactions](https://zestedesavoir.com/forums/sujet/666/zep-03-page-resumant-les-tutos-en-redaction/?page=1)
+ZEP-03 : [Page résumant les tutos en rédactions](https://zestedesavoir.com/forums/sujet/666/zep-03-page-resumant-les-tutos-en-redaction/?page=1) - Active
 
-ZEP-04 : [Nouvelle page d'accueil](https://zestedesavoir.com/forums/sujet/669/zep-04-nouvelle-page-daccueil/?page=1)
+ZEP-04 : [Nouvelle page d'accueil](https://zestedesavoir.com/forums/sujet/669/zep-04-nouvelle-page-daccueil/?page=1) - Active
 
-ZEP-05 : [Refonte du traitement markdown pour l'export](https://zestedesavoir.com/forums/sujet/676/zep-05-refonte-du-traitement-markdown-pour-lexport/?page=1)
+ZEP-05 : [Refonte du traitement markdown pour l'export](https://zestedesavoir.com/forums/sujet/676/zep-05-refonte-du-traitement-markdown-pour-lexport/?page=1) - En développement
 
-ZEP-06 : [Favoris et autres suivis d'actualité](https://zestedesavoir.com/forums/sujet/678/zep-06-favoris-et-autres-suivi-dactivite/?page=1#p8452)
+ZEP-06 : [Favoris et autres suivis d'actualité](https://zestedesavoir.com/forums/sujet/678/zep-06-favoris-et-autres-suivi-dactivite/?page=1#p8452) - En rédaction
 
-ZEP-07 : [Champs personnalisés dans le profil](https://zestedesavoir.com/forums/sujet/709/zep-07-champs-personnalises-dans-le-profil/?page=1)
+ZEP-07 : [Champs personnalisés dans le profil](https://zestedesavoir.com/forums/sujet/709/zep-07-champs-personnalises-dans-le-profil/?page=1) - En rédaction
 
-ZEP-08 : [Utilisation de git pour gérer les tutos et les articles](https://zestedesavoir.com/forums/sujet/724/zep-08-utilisation-de-git-pour-gerer-les-tutos-et-articles/?page=1)
+ZEP-08 : [Utilisation de git pour gérer les tutos et les articles](https://zestedesavoir.com/forums/sujet/724/zep-08-utilisation-de-git-pour-gerer-les-tutos-et-articles/?page=1) - En rédaction
 
-ZEP-09 : [Sondages](https://zestedesavoir.com/forums/sujet/729/zep-09-sondages/)
+ZEP-09 : [Sondages](https://zestedesavoir.com/forums/sujet/729/zep-09-sondages/) - En rédaction
 
-ZEP-10 : [Modules d'exercices](https://zestedesavoir.com/forums/sujet/822/zep-10-module-dexercices/?page=1#p44812)
+ZEP-10 : [Modules d'exercices](https://zestedesavoir.com/forums/sujet/822/zep-10-module-dexercices/?page=1#p44812) - En rédaction
 
-ZEP-11 : [Interface de statistiques sur les tutoriels](https://zestedesavoir.com/forums/sujet/835/zep-11-interface-de-statistiques-sur-les-tutoriels/?page=1)
+ZEP-11 : [Interface de statistiques sur les tutoriels](https://zestedesavoir.com/forums/sujet/835/zep-11-interface-de-statistiques-sur-les-tutoriels/?page=1) - En développement
 
-ZEP-12 : [Refonte principe des tutoriels et articles](https://zestedesavoir.com/forums/sujet/846/zep-12-refonte-du-principe-des-tutoriels-et-articles/?page=1)
+ZEP-12 : [Refonte principe des tutoriels et articles](https://zestedesavoir.com/forums/sujet/846/zep-12-refonte-du-principe-des-tutoriels-et-articles/?page=1) - Active
 
-ZEP-13 : [Tribune libre](https://zestedesavoir.com/forums/sujet/976/zep-13-tribune-libre/?page=1)
+ZEP-13 : [Tribune libre](https://zestedesavoir.com/forums/sujet/976/zep-13-tribune-libre/?page=1) - En rédaction
 
 ZEP-14 : [Refonte de l'assistant d'édition mardown](https://zestedesavoir.com/forums/sujet/1009/zep-14-refonte-de-lassistant-dedition-markdown/?page=1)
 

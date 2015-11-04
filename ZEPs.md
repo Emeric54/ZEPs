@@ -75,3 +75,5 @@ ZEP-34 : [Templates de tutoriels](https://zestedesavoir.com/forums/sujet/4010/ze
 ZEP-35 : [Connexion des contenus - les liens](https://zestedesavoir.com/forums/sujet/3152/zep-32-connexion-des-contenus-les-relations/) - En rédaction
 
 ZEP-36 : [Nouvelle page de profil](https://zestedesavoir.com/forums/sujet/4454/zep-36-nouvelle-page-de-profil/) - En rédaction
+
+ZEP-37: [Réorganistion  des menus déroulant du header](https://zestedesavoir.com/forums/sujet/4491/zep-37-reorganisation-des-menus-deroulants-du-header/) - En rédaction
